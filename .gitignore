@@ -1,0 +1,11 @@
+.DS_Store
+
+.vscode/
+
+bin/
+hooks/
+plugins/
+platforms/
+node_modules/
+
+*.db
